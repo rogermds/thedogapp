@@ -1,8 +1,10 @@
 # The Dog App - Projeto Full Stack
 
+# Vídeo do projeto
+https://user-images.githubusercontent.com/86385568/139510439-e9942f23-d7c6-4221-a639-2d5dd6259a87.mp4
 # 1) Sobre o projeto
 
-O projeto consiste em demonstrar as minhas habilidades na criação de uma aplicação desde o backend, banco de dados e frontend.
+O projeto consiste em demonstrar as minhas habilidades na criação de uma aplicação desde o backend, banco de dados e frontend. A aplicação efetua a consulta da API: https://thedogapi.com/ , e a partir desta consulta, consumir as informações necessárias para o banco de dados, e criar uma API limpa para consumo do frontend através do fetch via React.
 
 # 2) Tecnologias utilizadas
 
